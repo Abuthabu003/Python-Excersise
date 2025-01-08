@@ -1,0 +1,4 @@
+rcb==str(input("win"))
+rcb=a
+if(a=="win"):
+    Print("Winner is :", a)
